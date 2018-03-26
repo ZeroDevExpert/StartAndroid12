@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/p1271_soundpool" />
             <option value="$PROJECT_DIR$/p1281_audiofocus" />
             <option value="$PROJECT_DIR$/p1291_mediarecorderaudio" />
+            <option value="$PROJECT_DIR$/p1301_audiorecorder" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
