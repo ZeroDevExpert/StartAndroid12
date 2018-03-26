@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/p1121_dynamicactionbar" />
             <option value="$PROJECT_DIR$/p1271_soundpool" />
             <option value="$PROJECT_DIR$/p1281_audiofocus" />
+            <option value="$PROJECT_DIR$/p1291_mediarecorderaudio" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
