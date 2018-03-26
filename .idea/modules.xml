@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/p1281_audiofocus/p1281_audiofocus.iml" filepath="$PROJECT_DIR$/p1281_audiofocus/p1281_audiofocus.iml" />
       <module fileurl="file://$PROJECT_DIR$/p1291_mediarecorderaudio/p1291_mediarecorderaudio.iml" filepath="$PROJECT_DIR$/p1291_mediarecorderaudio/p1291_mediarecorderaudio.iml" />
       <module fileurl="file://$PROJECT_DIR$/p1301_audiorecorder/p1301_audiorecorder.iml" filepath="$PROJECT_DIR$/p1301_audiorecorder/p1301_audiorecorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1311_cameraintent/p1311_cameraintent.iml" filepath="$PROJECT_DIR$/p1311_cameraintent/p1311_cameraintent.iml" />
     </modules>
   </component>
 </project>

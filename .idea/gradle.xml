@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/p1281_audiofocus" />
             <option value="$PROJECT_DIR$/p1291_mediarecorderaudio" />
             <option value="$PROJECT_DIR$/p1301_audiorecorder" />
+            <option value="$PROJECT_DIR$/p1311_cameraintent" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
